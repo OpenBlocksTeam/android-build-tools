@@ -1,0 +1,8 @@
+Package: ecj
+Architecture: all
+Installed-Size: 8192
+Maintainer: Termux members @termux
+Version: 1:4.12-3
+Homepage: http://www.eclipse.org/jdt/core/
+Conflicts: ecj4.6
+Description: Eclipse Compiler for Java
