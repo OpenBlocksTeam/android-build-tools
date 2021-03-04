@@ -10,3 +10,5 @@ This repository contains:
  - r8 (Obfuscation, Optimization something)
 
 Thanks to [Termux](https://termux.com/) for providing a big portion of these tools! You can check the tools used by us at the [Termux's repository](https://10.via0.com/ipns/k51qzi5uqu5dg9vawh923wejqffxiu9bhqlze5f508msk0h7ylpac27fdgaskx/pool/main/).
+
+> Note: You may need to manually edit aapt's and zipaligner's executable to match the path of where the shared objects are stored
