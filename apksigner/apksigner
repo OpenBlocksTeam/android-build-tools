@@ -1,0 +1,2 @@
+#!/usr/bin/sh
+dalvikvm -Xcompiler-option --compiler-filter=speed -cp apksigner.jar com.android.apksigner.ApkSignerTool $@

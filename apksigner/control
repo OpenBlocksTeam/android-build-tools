@@ -1,0 +1,7 @@
+Package: apksigner
+Architecture: all
+Installed-Size: 368
+Maintainer: Termux members @termux
+Version: 30.0.3-1
+Homepage: https://developer.android.com/studio/command-line/apksigner
+Description: APK signing tool
