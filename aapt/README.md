@@ -1,4 +1,4 @@
-For `zipaligner`, It's basically the same thing as aapt
+For `zipaligner`, The setup is basically the same thing as aapt, just replace aapt stuff with zipalign stuff
 
 # AAPT
 aapt is a tool that allows you to view, create, and update ZIP-compatible archives (ZIP, JAR, and APK). It can also compile resources into binary assets. It is the base builder for Android applications. ([Source](https://stackoverflow.com/questions/28234671/what-is-aapt-android-asset-packaging-tool-and-how-does-it-work))
