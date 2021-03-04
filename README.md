@@ -3,6 +3,7 @@ Android Application Build Tools collection that can be used on an android device
 
 This repository contains:
  - aapt (Asset Packaging Tool)
+ - zipalign (Zip aligner)
  - ecj (Java Compiler)
  - apksigner (Signer)
  - d8 (Dexer)
