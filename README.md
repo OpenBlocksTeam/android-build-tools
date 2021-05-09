@@ -1,15 +1,16 @@
-# Android Application Build Tools for Android
-Android Application Build Tools collection that can be used on an android device, Will be used for the [OpenBlocks](https://github.com/OpenBlocks/openblocks-app) project.
+### Android tools built for Android devices
+
+Android Build Tools collection that can be used on an Android Devices, Will be used for the [OpenBlocks](https://github.com/OpenBlocks/openblocks-app) project.
 
 This repository contains:
- - aapt (Asset Packaging Tool)
- - zipalign (Zip aligner)
- - ecj (Java Compiler)
- - apksigner (Signer)
- - d8 (Dexer)
- - dx (An older Dexer)
- - r8 (Obfuscation, Optimization something)
+ - AAPT (Android Asset Packaging Tool)
+ - ZipAlign (Zip Aligner)
+ - Eclipse ECJ (Java Compiler)
+ - ApkSigner (ApkSigner)
+ - D8 (Java 8 Dexer)
+ - DX (Java 7 Dexer)
+ - R8 (Obfuscation, Code & Resources Shrinking)
 
 Thanks to [Termux](https://termux.com/) for providing a big portion of these tools! You can check the tools used by us at the [Termux's repository](https://10.via0.com/ipns/k51qzi5uqu5dg9vawh923wejqffxiu9bhqlze5f508msk0h7ylpac27fdgaskx/pool/main/).
 
-> Note: You may need to manually edit aapt's and zipaligner's executable to match the path of where the shared objects are stored
+> Note: You may need to manually edit AAPT'S and ZipAligner's executable to match the path of where the shared objects are stored.
